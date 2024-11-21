@@ -10,13 +10,13 @@
       <key>kind</key>
       <string>software-package</string>
       <key>url</key>
-      <string><![CDATA[https://c1031.lanosso.com/311166abdd5d8a856ce9562a61cdf52b/673f703e/2024/09/17/a153e15737198d0e6814948cd0e4f652.ipa]]></string>
+      <string><![CDATA[https://github.com/Ch-Bimmer/app/raw/refs/heads/main/ProCam_14.1.8.ipa]]></string>
      </dict>
     </array>
     <key>metadata</key>
     <dict>
      <key>bundle-identifier</key>
-     <string>com.aldb.ios.magic.19978</string>
+     <string>com.riseupgames.ProShot</string>
      <key>bundle-version</key>
      <string>1</string>
      <key>kind</key>
@@ -24,7 +24,7 @@
      <key>subtitle</key>
      <string>App subtitle</string>
      <key>title</key>
-     <string>TrollInstallerX_1.0.3</string>
+     <string>ProShot</string>
     </dict>
    </dict>
   </array>
